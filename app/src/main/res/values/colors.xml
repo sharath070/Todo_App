@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="action_blue">#3d29b1</color>
+    <color name="delete">#FF2D1E</color>
+    <color name="update">#0CBC00</color>
+</resources>
